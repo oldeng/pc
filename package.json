@@ -1,0 +1,22 @@
+{
+  "name": "{{ name }}",
+  "version": "0.0.1",
+  "description": "{{ description }}",
+  "main": "src/main.js",
+  
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --report",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "plugin",
+    "cli"
+  ],
+  "author": "{{ author }}",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
